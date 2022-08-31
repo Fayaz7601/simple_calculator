@@ -1,0 +1,19 @@
+.main{
+    height: 290px;
+    width: 220px;
+    background-color: darkslateblue;
+    text-align: center;
+    margin-left: 40%;
+    margin-top: 100px;
+    border-radius: 15px;
+}
+input{
+    height: 40px;
+    width: 190px;
+    border-radius: 15px;
+}
+button{
+    height: 50px;
+    width: 45px;
+    border-radius: 10px;
+}
