@@ -1,6 +1,6 @@
 .main{
-    height: 290px;
-    width: 220px;
+    height: 410px;
+    width: 280px;
     background-color: darkslateblue;
     text-align: center;
     margin-left: 40%;
@@ -9,11 +9,14 @@
 }
 input{
     height: 40px;
-    width: 190px;
+    width: 240px;
     border-radius: 15px;
 }
 button{
     height: 50px;
-    width: 45px;
+    width: 60px;
     border-radius: 10px;
+}
+.q1{
+    width: 120px;
 }
